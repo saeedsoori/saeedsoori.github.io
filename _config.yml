@@ -60,9 +60,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   location: "Toronto, Ontario, Canada"
   employer:
-     name: "Comp Sci @ University of Toronto"
+    name: "Comp Sci @ University of Toronto"  
   email: "sasoori@cs.toronto.edu"
-  girhub: "saeedsoori"
+  github: "saeedsoori"
   linkedin: "saeed-soori"
   googlescholar: "Y3mNCckAAAAJ"
   
