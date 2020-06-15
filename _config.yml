@@ -58,19 +58,26 @@ plugins:
 author:
   name   : "Saeed Soori"
   avatar : "/assets/images/bio-photo.jpg"
-  links:
-    - label: "Toronto, Canada"
-      icon: "fas fa-fw fa-location"
-    - label: "Comp Sci @ University of Toronto"
-      icon: "fas fa-fw fa-university"
-    - label: "Email"
-      icon: "fas fa-fw fa-email"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/saeedsoori/"
-    - label: "LinkdeIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/saeed-soori/"
+  location: "Toronto, Ontario, Canada"
+  employer:
+     name: "Comp Sci @ University of Toronto"
+  email: "sasoori@cs.toronto.edu"
+  girhub: "saeedsoori"
+  linkedin: "saeed-soori"
+  googlescholar: "Y3mNCckAAAAJ"
+  
+  
+  
+  
+#   links:
+#     - label: "Email"
+#       icon: "fas fa-fw fa-email"
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/saeedsoori/"
+#     - label: "LinkdeIn"
+#       icon: "fab fa-fw fa-linkedin"
+#       url: "https://www.linkedin.com/in/saeed-soori/"
 
 footer:
   links:
