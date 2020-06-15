@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Saeed Soori"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "CS PhD Student at Univeristy of Toronto."
+  bio    : "PhD Student at Univeristy of Toronto, Department of Computer Science."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -76,8 +76,8 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/saeedsoori/"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/saeed-soori/"
 
 defaults:
   # _posts
