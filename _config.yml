@@ -58,11 +58,9 @@ plugins:
 author:
   name   : "Saeed Soori"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD Student at Univeristy of Toronto, Department of Computer Science."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "Toronto, Canada"
+      icon: "fas fa-fw fa-location"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/saeedsoori/"
