@@ -61,6 +61,10 @@ author:
   links:
     - label: "Toronto, Canada"
       icon: "fas fa-fw fa-location"
+    - label: "Comp Sci @ University of Toronto"
+      icon: "fas fa-fw fa-university"
+    - label: "Email"
+      icon: "fas fa-fw fa-email"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/saeedsoori/"
