@@ -19,13 +19,13 @@ algorithms for computing effective resistances in undirected networks.
 
 
 ## Approximate Matrix Algorithms
+Kernel methods in statistical learning and scientific computing can cause challenges such as inverting large matrices or solving an high dimensional linear system. We develop efficient frameworks to approximate these computations while satisfying user-specific accuracies.
 
-BLLLLL
-
-* MatRox ([pdf](http://www.paramathic.com/wp-content/uploads/2019/10/MatRox.pdf "pdf"), [code](https://github.com/kobeliu85/MatRox_RU "code")): high-performance framework to efficiently compress and approximate the matrix computations while satisfying user-specific accuracies.
+* MatRox ([pdf](http://www.paramathic.com/wp-content/uploads/2019/10/MatRox.pdf "pdf"), [code](https://github.com/kobeliu85/MatRox_RU "code")): high-performance framework to efficiently compress and approximate matrix computations.
 
 
 ## Quantized Deep Learning
-BLLL
+
+We develop scalable optimization algorithms for training deep neural networks on distributed platforms. We design novel quantizated stochastic algorithms to reduce the communication cost of transferred bits among GPUs in a cluster. We adpot data parallelism and MPI communication to build an effiecient message passing while preserving convergence rates.
 
 
