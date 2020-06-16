@@ -42,6 +42,7 @@ body {
   width: 100%;
 }
 
+
 /* The circles on the timeline */
 .container::after {
   content: '';
@@ -148,6 +149,7 @@ body {
   <div class="container right">
     <div class="content">
       <h2>Machine Learning</h2>
+      <img src="ML.jpeg" align="right" />
       <p>We improve the peformance and scalability of machine learning algorithms on parallel high performance and cloud computing platforms.Our approach targets both theoretical aspects and systems engineering.</p>
     </div>
   </div>
