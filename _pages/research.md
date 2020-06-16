@@ -5,8 +5,9 @@ title: "Research Topics"
 ## Machine Learning
 
 Applications that require running on a cluster consisting multiple CPUs or GPUs, face many challenges including high communication costs, slow resources and congestion. I develop algorithms and tools that tackles these problems in both theoretical and systems engineering aspects.
+
 ![image-right]({{site.url}}{{site.baseurl}}/assets/images/ML.jpg){: .align-right}
-  
+
 ## Approximate Matrix Algorithms
 
 Kernel methods in statistical learning and scientific computing can cause challenges such as inverting large matrices or solving an high dimensional linear system. We develop efficient frameworks to approximate these computations while satisfying user-specific accuracies.
