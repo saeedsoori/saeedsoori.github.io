@@ -2,9 +2,7 @@
 permalink: /research/
 title: "Research Topics"
 ---
-
 ## Machine Learning
-
 
 We improve the peformance and scalability of machine learning algorithms on parallel high performance and cloud computing platforms.Our approach targets both theoretical aspects and systems engineering. 
 

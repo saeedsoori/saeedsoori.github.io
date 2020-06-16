@@ -13,8 +13,9 @@ title: "Publications"
 [3] A Model-Based Algorithm with an Efficient Storage Format for Parallel HSS-Structured Matrix Approximations  
 `Proceedings of the 25th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming `**`(PPoPP 2020)`**` `
 
-### Reducing Communication in Proximal Newton Methods for Sparse Least Squares Problems  
-`Proceedings of the 47th International Conference on Parallel Processing `**` (ICPP 2018)`**` `
+[4] Reducing Communication in Proximal Newton Methods for Sparse Least Squares Problems  
+<span style="color:blue">Proceedings of the 47th International Conference on Parallel Processing  (ICPP 2018)</span>
+
 
 [5] Decentralized Computation of Effective Resistances and Acceleration of Distributed Optimization Algorithms  
 `arXiv`
