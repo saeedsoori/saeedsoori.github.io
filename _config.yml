@@ -58,6 +58,7 @@ plugins:
 author:
   name   : "Saeed Soori"
   avatar : "/assets/images/bio-photo.jpg"
+  bio    : ""
   location: "Toronto, Ontario, Canada"
   employer:
     name: "Comp Sci @ University of Toronto"  
