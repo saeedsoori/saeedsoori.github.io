@@ -5,7 +5,7 @@ title: "Publications"
 
 
 ASYNC: A Cloud Engine with Asynchrony and History for Distributed Machine Learning  
-`The 34th International Parallel and Distributed Processing Symposium <b>(IPDPS 2020)</b>`
+`The 34th International Parallel and Distributed Processing Symposium `**`(IPDPS 2020)`**` `
 
 DAve-QN: A Distributed Averaged Quasi-Newton Method with Local Superlinear Convergence Rate  
 `The 23rd International Conference on Artificial Intelligence and Statistics <b>(AISTATS 2020)</b>`
