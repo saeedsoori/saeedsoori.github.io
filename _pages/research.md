@@ -6,7 +6,7 @@ title: ""
 ## Machine Learning
 
 
-We improve the peformance and scalability of machine learning algorithms on parallel high performance and cloud computing platforms. 
+We improve the peformance and scalability of machine learning algorithms on parallel high performance and cloud computing platforms.Our approach targets both theoretical aspects and systems engineering. 
 
 
 * ASYNC ([pdf](http://www.paramathic.com/wp-content/uploads/2019/10/ASYNC.pdf "pdf"), [code](https://github.com/ASYNCframework/ASYNCframework "code")): A novel framework to support asycnhronous optimization on hetergenous platforms.

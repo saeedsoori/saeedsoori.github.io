@@ -4,13 +4,15 @@ title: "Publications"
 ---
 
 
-[1] ASYNC: A Cloud Engine with Asynchrony and History for Distributed Machine Learning
+ASYNC: A Cloud Engine with Asynchrony and History for Distributed Machine Learning
+`The 34th International Parallel and Distributed Processing Symposium "(IPDPS 2020)"`
 
+DAve-QN: A Distributed Averaged Quasi-Newton Method with Local Superlinear Convergence Rate
+The 23rd International Conference on Artificial Intelligence and Statistics "(AISTATS 2020)"
 
-[2] DAVE-QN: A DISTRIBUTED AVERAGED QUASI-NEWTON METHOD WITH LOCAL SUPERLINEAR CONVERGENCE RATE
+A Model-Based Algorithm with an Efficient Storage Format for Parallel HSS-Structured Matrix Approximations
+Proceedings of the 25th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP 2020)
 
-[3] A Model-Based Algorithm with an Efficient Storage Format for Parallel HSS-Structured Matrix Approximations
+Reducing Communication in Proximal Newton Methods for Sparse Least Squares Problems
 
-[4] Reducing Communication in Proximal Newton Methods for Sparse Least Squares Problems
-
-[5] Decentralized Computation of Effective Resistances and Acceleration of Distributed Optimization Algorithms
+Decentralized Computation of Effective Resistances and Acceleration of Distributed Optimization Algorithms
