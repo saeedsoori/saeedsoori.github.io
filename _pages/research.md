@@ -41,7 +41,7 @@ body {
   padding: 10px 40px;
   position: relative;
   background-color: inherit;
-  width: 70%;
+  width: 100%;
 }
 
 /* The circles on the timeline */
