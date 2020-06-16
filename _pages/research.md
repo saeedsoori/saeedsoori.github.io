@@ -32,7 +32,7 @@ body {
   background-color: #a0c3ff;
   top: 0;
   bottom: 0;
-  left: 10%;
+  left: 3%;
   margin-left: -3px;
 }
 
@@ -65,7 +65,7 @@ body {
 
 /* Place the container to the right */
 .right {
-  left: 10%;
+  left: 3%;
 }
 
 /* Add arrows to the left container (pointing right) */
@@ -77,7 +77,7 @@ body {
   width: 0;
   z-index: 1;
   right: 30px;
-  border: medium solid white;
+  border: medium solid #f5f5f5;
   border-width: 10px 0 10px 10px;
   border-color: transparent transparent transparent white;
 }
@@ -93,7 +93,7 @@ body {
   left: 30px;
   border: medium solid white;
   border-width: 10px 10px 10px 0;
-  border-color: transparent white transparent transparent;
+  border-color: transparent #f5f5f5 transparent transparent;
 }
 
 /* Fix the circle for containers on the right side */
@@ -146,29 +146,13 @@ body {
 <body>
 
 <div class="timeline">
-  <div class="container right">
-    <div class="content">
-      <h2>2017</h2>
-      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
-    </div>
-  </div>
+
   <div class="container right">
     <div class="content">
       <h2>2016</h2>
       <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
     </div>
   </div>
-  <div class="container right">
-    <div class="content">
-      <h2>2015</h2>
-      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
-    </div>
-  </div>
-  
-
-
-</body>
-</html>
 
 We improve the peformance and scalability of machine learning algorithms on parallel high performance and cloud computing platforms.Our approach targets both theoretical aspects and systems engineering. 
 
