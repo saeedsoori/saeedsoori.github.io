@@ -13,5 +13,6 @@ I was a teaching assistant for <b>Principals of Electrical Engineering II</b> in
 I was a teaching assistant for multiple graduate and undergraduate courses such as Probability and Statistics, Linear Algebra and Pattern Recognition. My duties as a TA included holding recitation classes and grading.
 
 
-
+**Note:** for all experiences please check [LinkedIn](https://www.linkedin.com/in/saeed-soori).
+{: .notice--info}
 

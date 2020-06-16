@@ -19,5 +19,5 @@ title: "Publications"
 [5] Decentralized Computation of Effective Resistances and Acceleration of Distributed Optimization Algorithms ([pdf](http://www.paramathic.com/wp-content/uploads/2019/09/Eff-res.pdf "pdf"))  
 <span style="font-size:0.8em">arXiv</span>
 
-**Note:** for a full list of publications please check [Google Scholar](https://scholar.google.com/citations?user=Y3mNCckAAAAJ&hl)
+**Note:** for a full list of publications please check [Google Scholar](https://scholar.google.com/citations?user=Y3mNCckAAAAJ&hl).
 {: .notice--info}
