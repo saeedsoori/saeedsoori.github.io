@@ -6,7 +6,7 @@ title: "Research Topics"
 
 Applications that require running on a cluster consisting multiple CPUs or GPUs, face many challenges including high communication costs, slow resources and congestion. I develop algorithms and tools that tackles these problems in both theoretical and systems engineering aspects.
 
-![image-right]({{site.url}}{{site.baseurl}}/assets/images/ML.jpg){: .align-right}
+![image-right]({{site.url}}{{site.baseurl}}/assets/images/ML.jpg){: .align-right}  
 
 ## Approximate Matrix Algorithms
 
