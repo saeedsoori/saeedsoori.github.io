@@ -149,7 +149,7 @@ body {
   <div class="container right">
     <div class="content">
       <h2>Machine Learning</h2>
-      <img src="/assets/images/ML.jpg" align="right" />
+      <img src="/assets/images/ML.jpg" style="float:right;width:100px;height:100px;"  />
       <p>We improve the peformance and scalability of machine learning algorithms on parallel high performance and cloud computing platforms.Our approach targets both theoretical aspects and systems engineering.</p>
     </div>
   </div>
