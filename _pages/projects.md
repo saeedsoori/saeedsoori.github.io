@@ -15,7 +15,7 @@ We improve the peformance and scalability of machine learning algorithms on para
 * DAve-QN ([pdf](http://www.paramathic.com/wp-content/uploads/2019/09/Dave-QN.pdf "pdf"), [code](https://github.com/DAve-QN/source "code")): the first asynchronous quasi-newton method with superlinear convergence.
 
 * EFF-RES ([pdf](http://www.paramathic.com/wp-content/uploads/2019/09/Eff-res.pdf "pdf")): efficient distributed
-algorithms for computing effective resistances in an undirected network.
+algorithms for computing effective resistances in undirected networks.
 
 
 ## Approximate Matrix Algorithms
