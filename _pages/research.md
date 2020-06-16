@@ -159,7 +159,8 @@ body {
   </div>
   <div class="container right">
     <div class="content">
-      <h2>We develop scalable optimization algorithms for training deep neural networks on distributed platforms. We design novel quantizated stochastic algorithms to reduce the communication cost of transferred bits among GPUs in a cluster. We adpot data parallelism and MPI communication to build an effiecient message passing while preserving convergence rates.</p>
+      <h2>Quantized Deep Learning</h2>
+      <p>We develop scalable optimization algorithms for training deep neural networks on distributed platforms. We design novel quantizated stochastic algorithms to reduce the communication cost of transferred bits among GPUs in a cluster. We adpot data parallelism and MPI communication to build an effiecient message passing while preserving convergence rates.</p>
     </div>
   </div>
 </div>
