@@ -67,6 +67,7 @@ author:
   links:
     - label: "Comp Sci @ University of Toronto"
       icon: "fa fa-fw fa-map-marker"
+      url: ""
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=Y3mNCckAAAAJ&hl"
