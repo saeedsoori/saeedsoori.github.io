@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Imagination is more important than knowledge. - Albert Einstein
 #twitter_username: username
 github_username: saeedsoori
-minimal_mistakes_skin: default
+minimal_mistakes_skin: air
 search: true
 
 # Build settings
