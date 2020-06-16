@@ -1,5 +1,5 @@
 ---
-permalink: /projects/
+permalink: /research/
 title: ""
 ---
 
@@ -8,7 +8,6 @@ title: ""
 
 We improve the peformance and scalability of machine learning algorithms on parallel high performance and cloud computing platforms. 
 
-* CA-SFISTA ([pdf](http://www.paramathic.com/wp-content/uploads/2019/09/CA-FISTA.pdf "pdf"), [code](https://github.com/saeedsoori/CA-Methods "code")): communication-avoiding algorithms for high performance computing. 
 
 * ASYNC ([pdf](http://www.paramathic.com/wp-content/uploads/2019/10/ASYNC.pdf "pdf"), [code](https://github.com/ASYNCframework/ASYNCframework "code")): A novel framework to support asycnhronous optimization on hetergenous platforms.
 
@@ -16,6 +15,8 @@ We improve the peformance and scalability of machine learning algorithms on para
 
 * EFF-RES ([pdf](http://www.paramathic.com/wp-content/uploads/2019/09/Eff-res.pdf "pdf")): efficient distributed
 algorithms for computing effective resistances in undirected networks.
+
+* CA-SFISTA ([pdf](http://www.paramathic.com/wp-content/uploads/2019/09/CA-FISTA.pdf "pdf"), [code](https://github.com/saeedsoori/CA-Methods "code")): communication-avoiding algorithms for high performance computing. 
 
 
 ## Approximate Matrix Algorithms
