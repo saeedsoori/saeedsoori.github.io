@@ -55,32 +55,39 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-# author:
-#   name   : "Saeed Soori"
-#   avatar : "/assets/images/bio-photo.jpg"
-#   bio    : ""
-#   location: "Toronto, Ontario, Canada"
-#   employer:
-#     name: "Comp Sci @ University of Toronto"  
-#   email: "sasoori@cs.toronto.edu"
-#   github: "saeedsoori"
-#   linkedin: "saeed-soori"
-#   googlescholar: "https://scholar.google.com/citations?user=Y3mNCckAAAAJ&hl=en"
 author:
-  name             : "Ian J. Bertolacci"
-  avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
-  location         : "Tucson, AZ, USA"
+  name   : "Saeed Soori"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : ""
+  location: "Toronto, Ontario, Canada"
   employer:
-    name           : "Comp Sci @ University of Arizona"
-    url            : "https://www.cs.arizona.edu/~ianbertolacci"
-  email            : "ian.bertolacci@gmail.com"
-  github           : "ian-bertolacci"
-  linkedin         : "ianbertolacci"
-  googlescholar    : "zKv7fRwAAAAJ"
-  researchgate     : "Ian_Bertolacci"
-  twitter          : "ianbertolacci"
-  kofi             : "ianbertolacci"  
+    name:   
+  email: "sasoori@cs.toronto.edu"
+  github: "saeedsoori"
+  linkedin: "saeed-soori"
+
+  links:
+    - label: "Comp Sci @ University of Toronto"
+      icon: "fas fa-fw fa-map-marker"
+    - label: "Google Scolar"
+      icon: "fab fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=Y3mNCckAAAAJ&hl"
+    
+# author:
+#   name             : "Ian J. Bertolacci"
+#   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+#   bio              : ""
+#   location         : "Tucson, AZ, USA"
+#   employer:
+#     name           : "Comp Sci @ University of Arizona"
+#     url            : "https://www.cs.arizona.edu/~ianbertolacci"
+#   email            : "ian.bertolacci@gmail.com"
+#   github           : "ian-bertolacci"
+#   linkedin         : "ianbertolacci"
+#   googlescholar    : "zKv7fRwAAAAJ"
+#   researchgate     : "Ian_Bertolacci"
+#   twitter          : "ianbertolacci"
+#   kofi             : "ianbertolacci"  
   
   
   
