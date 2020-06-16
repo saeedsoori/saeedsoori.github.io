@@ -59,18 +59,16 @@ author:
   name   : "Saeed Soori"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : ""
-  location: "Toronto, Ontario, Canada"
-  employer:
-    name:   
+  location: "Toronto, Ontario, Canada"  
   email: "sasoori@cs.toronto.edu"
   github: "saeedsoori"
   linkedin: "saeed-soori"
 
   links:
     - label: "Comp Sci @ University of Toronto"
-      icon: "fas fa-fw fa-map-marker"
-    - label: "Google Scolar"
-      icon: "fab fa-fw fa-graduation-cap"
+      icon: "fa fa-fw fa-map-marker"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=Y3mNCckAAAAJ&hl"
     
 # author:
