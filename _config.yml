@@ -71,34 +71,6 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=Y3mNCckAAAAJ&hl"
-    
-# author:
-#   name             : "Ian J. Bertolacci"
-#   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-#   bio              : ""
-#   location         : "Tucson, AZ, USA"
-#   employer:
-#     name           : "Comp Sci @ University of Arizona"
-#     url            : "https://www.cs.arizona.edu/~ianbertolacci"
-#   email            : "ian.bertolacci@gmail.com"
-#   github           : "ian-bertolacci"
-#   linkedin         : "ianbertolacci"
-#   googlescholar    : "zKv7fRwAAAAJ"
-#   researchgate     : "Ian_Bertolacci"
-#   twitter          : "ianbertolacci"
-#   kofi             : "ianbertolacci"  
-  
-  
-  
-#   links:
-#     - label: "Email"
-#       icon: "fas fa-fw fa-email"
-#     - label: "GitHub"
-#       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/saeedsoori/"
-#     - label: "LinkdeIn"
-#       icon: "fab fa-fw fa-linkedin"
-#       url: "https://www.linkedin.com/in/saeed-soori/"
 
 footer:
   links:
