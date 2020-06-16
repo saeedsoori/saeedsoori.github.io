@@ -14,7 +14,7 @@ title: "Publications"
 `Proceedings of the 25th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming `**`(PPoPP 2020)`**` `
 
 [4] Reducing Communication in Proximal Newton Methods for Sparse Least Squares Problems  
-<span style="font-size:0.5em">Proceedings of the 47th International Conference on Parallel Processing  (ICPP 2018)</span>
+<span style="font-size:0.8em">Proceedings of the 47th International Conference on Parallel Processing  (ICPP 2018)</span>
 
 
 [5] Decentralized Computation of Effective Resistances and Acceleration of Distributed Optimization Algorithms  
