@@ -55,18 +55,32 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# author:
+#   name   : "Saeed Soori"
+#   avatar : "/assets/images/bio-photo.jpg"
+#   bio    : ""
+#   location: "Toronto, Ontario, Canada"
+#   employer:
+#     name: "Comp Sci @ University of Toronto"  
+#   email: "sasoori@cs.toronto.edu"
+#   github: "saeedsoori"
+#   linkedin: "saeed-soori"
+#   googlescholar: "https://scholar.google.com/citations?user=Y3mNCckAAAAJ&hl=en"
 author:
-  name   : "Saeed Soori"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : ""
-  location: "Toronto, Ontario, Canada"
+  name             : "Ian J. Bertolacci"
+  avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : ""
+  location         : "Tucson, AZ, USA"
   employer:
-    name: "Comp Sci @ University of Toronto"  
-  email: "sasoori@cs.toronto.edu"
-  github: "saeedsoori"
-  linkedin: "saeed-soori"
-  googlescholar: "https://scholar.google.com/citations?user=Y3mNCckAAAAJ&hl=en"
-  
+    name           : "Comp Sci @ University of Arizona"
+    url            : "https://www.cs.arizona.edu/~ianbertolacci"
+  email            : "ian.bertolacci@gmail.com"
+  github           : "ian-bertolacci"
+  linkedin         : "ianbertolacci"
+  googlescholar    : "zKv7fRwAAAAJ"
+  researchgate     : "Ian_Bertolacci"
+  twitter          : "ianbertolacci"
+  kofi             : "ianbertolacci"  
   
   
   
