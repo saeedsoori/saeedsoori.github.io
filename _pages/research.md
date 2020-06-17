@@ -2,7 +2,7 @@
 permalink: /research/
 title: "Research Topics"
 ---
-## Machine Learning
+## Scalable Optimization Algorithms on Cloud
 
 Applications that require running on a cluster consisting multiple CPUs or GPUs, face many challenges including high communication costs, slow resources and congestion. I develop algorithms and tools that tackles these problems in both theoretical and systems engineering aspects.
 
