@@ -13,7 +13,7 @@ title: "Publications"
 [3] A Model-Based Algorithm with an Efficient Storage Format for Parallel HSS-Structured Matrix Approximations ([pdf](http://www.paramathic.com/wp-content/uploads/2019/10/MatRox.pdf "pdf"), [code](https://github.com/kobeliu85/MatRox_RU "code"))  
 <span style="font-size:0.8em">Proceedings of the 25th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming <b>(PPoPP 2020)</b></span>
 
-[4] Reducing Communication in Proximal Newton Methods for Sparse Least Squares Problems ([pdf](http://www.paramathic.com/wp-content/uploads/2019/09/CA-FISTA.pdf "pdf"), [code](https://github.com/saeedsoori/CA-Methods "code"))  
+[4] Reducing Communication in Proximal Newton Methods for Sparse Least Squares Problems ([pdf](http://www.paramathic.com/wp-content/uploads/2019/09/CA-FISTA.pdf "pdf"), [code](https://github.com/saeedsoori/CASPNM "code"))  
 <span style="font-size:0.8em">Proceedings of the 47th International Conference on Parallel Processing  <b>(ICPP 2018)</b></span>
 
 [5] Decentralized Computation of Effective Resistances and Acceleration of Distributed Optimization Algorithms ([pdf](http://www.paramathic.com/wp-content/uploads/2019/09/Eff-res.pdf "pdf"))  
