@@ -8,3 +8,8 @@ author_profile: true
 The PDF version is avaiable here:
 
 [PDF Version](http://saeedsoori.github.io/assets/documents/CV.pdf "pdf")
+
+My PhD thesis is also avaiable here:
+
+[Thesis](http://saeedsoori.github.io/assets/documents/Thesis.pdf "pdf")
+
